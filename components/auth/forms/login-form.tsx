@@ -1,8 +1,8 @@
 import React from 'react'
-import { RegisterFieldsValue } from "@/schemas";
-import { register } from '@/actions/register';
+// import { RegisterFieldsValue } from "@/schemas";
+// import { register } from '@/actions/register';
 
-const LoginForm = ( data : RegisterFieldsValue) => {
+const LoginForm = () => {
 // register(data).then((res) => {
 //         console.log(res)
 //     })
