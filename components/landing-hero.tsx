@@ -22,7 +22,7 @@ const LandingHero = () => {
             }}
             /> */}
 
-            Ai Genration 
+            Ai Generation 
             </div>
         </div>
         <div className='text-sm md:text-xl font-light text-zinc-400'>
